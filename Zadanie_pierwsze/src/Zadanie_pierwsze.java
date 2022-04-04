@@ -10,6 +10,7 @@ public class Zadanie_pierwsze {
         String imie = reader.readLine();
         System.out.println("Hello " + imie + "!");
 
-    }
+}
 
 }
+
